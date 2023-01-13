@@ -8,7 +8,7 @@ body {
     font-weight: 400;
 }
 #ant-section__ant006_header {
-    background: rgb(122, 174, 242);
+    background: rgb(212, 230, 254);
     padding: 20px 0;
     position: relative;
     border-bottom:1px solid #ddd;
@@ -28,7 +28,7 @@ body {
 }
 
 .ant006_header-logo a {
-    color: #000;
+    color: rgb(0, 0, 0);
     font-size: 27px;
     font-weight: bold;
 }
